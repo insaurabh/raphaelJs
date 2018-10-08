@@ -6,9 +6,23 @@
 <details>
 <summary>File Used </summary>
 
-* index.php
+* index.html
 * our_script.js
 
 ![Logo](/images/circle-rectandle-in-raphael.png)
 
 </details>
+
+
+### 📚 Draw lines on raphael paper directly
+
+<details>
+<summary>File Used </summary>
+
+* customDrawLines.html
+* customDrawLines.js
+
+![Logo](/images/draw-lines-raphaeljs.png)
+
+</details>
+

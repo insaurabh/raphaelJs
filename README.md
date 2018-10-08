@@ -1,3 +1,3 @@
 # raphaelJs
 
-![Logo](/circle-rectandle-in-raphael.png)
+![Logo](/images/circle-rectandle-in-raphael.png)
